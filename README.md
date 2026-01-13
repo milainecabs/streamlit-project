@@ -1,2 +1,6 @@
 # streamlit-project
-Premier depot github streamlit
+ My first streamlit project
+
+ ## Install requirements
+ Install python and streamlit in your Laptop
+
